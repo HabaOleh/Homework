@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.black-main{
+    width: 700px;
+    height: 500px;
+    background: black;
+}
+.orange-1{
+    width: 98%;
+    height: 95px;
+    background: orangered;
+    margin: 0 auto;
+
+}
+.red{
+    width: 24%;
+    height: 300px;
+    background: red;
+    float: left;
+    margin-left: 7px;
+}
+.green{
+    width: 24%;
+    height: 300px;
+    background: green;
+    float: left;
+}
+.blue{
+    width: 24%;
+    height: 300px;
+    background: blue;
+    float: left;
+}
+.black{
+    width: 24%;
+    height: 300px;
+    background: black;
+    float: left;
+}
+.orange-2{
+    width: 98%;
+    height: 97px;
+    background: orangered;
+    clear: both;
+    margin: 0 auto;
+}

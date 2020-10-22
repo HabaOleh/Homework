@@ -1,0 +1,52 @@
+body{
+    background: #01011d;
+}
+.title{
+    background: aqua;
+    text-align: center;
+    font-family: "Bookman Old Style", sans-serif;
+}
+.about {
+    margin: 0;
+    color: #231E28;
+    padding: 30px 30px 30px 60px;
+    border-left: 8px solid #CBDDE7;
+    position: relative;
+    background: #FAF8EB;
+    font-family: "Bookman Old Style", sans-serif;
+    font-weight: 300
+}
+.image{
+    text-align: center;
+}
+img{
+
+    height: 200px;
+    width: 200px;
+    margin: 2px;
+    border: 1px solid #0000ff;
+    text-align: center;
+
+}
+.gallery{
+    background: aqua;
+    text-align: center;
+    font-family: "Bookman Old Style", sans-serif;
+}
+.film-name{
+    background: aqua;
+    text-align: center;
+    font-family: "Bookman Old Style", sans-serif;
+}
+.films{
+    background: aqua;
+    text-align: center;
+    font-family: "Bookman Old Style", sans-serif;
+}
+.list-films{
+    position: relative;
+    padding: 20px 0 20px 40px;
+    color: aqua;
+    font-weight: bold;
+    cursor: pointer;
+}
